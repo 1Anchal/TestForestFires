@@ -5,4 +5,4 @@ ipykernel
 seaborn
 numpy
 scikit-learn
-sklearn
+
